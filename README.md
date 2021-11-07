@@ -6,4 +6,4 @@ Updated personal portfolio page for myself utilizing the Bulma framework after l
 
 ## Deployment
 
-Deployed at: [Jeff Korby's Portfolio Page](https://jeffkorby.github.io/PortfolioPageUpdate/)
+Deployed at: [Jeff Korby's Portfolio Page](https://jeffkorby.github.io/UpdatedPortfolioPage2/)
